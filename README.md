@@ -1,4 +1,3 @@
-```markdown
 # potential-waffle
 
 ## Overview
@@ -109,12 +108,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 ## Contribution
 If you'd like to contribute, feel free to submit pull requests or raise issues on GitHub!
 
-You can find the project on GitHub at: [GitHub Repository](https://github.com/your-repo-link)
+You can find the project on GitHub at: [GitHub Repository](https://github.com/[your-repo-link](https://github.com/Bryne-Ra/potential-waffle))
 
 ---
-
-Developed as part of the Recommendations with IBM project.
-```
-
-This `README.md` file provides a detailed explanation of the project workflow, setup instructions, repository structure, and required imports. It also includes a section for contributions and a link to the GitHub repository.
-This `README.md` file provides a detailed explanation of the project workflow, setup instructions, repository structure, and required imports. It also includes a section for contributions and a link to the GitHub repository.
